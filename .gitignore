@@ -10,4 +10,5 @@ wheels/
 .venv
 
 # Other ignored files
-game_state.json1
+./game_state.jsonl
+./game_events.jsonl
